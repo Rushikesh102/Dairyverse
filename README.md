@@ -1,4 +1,4 @@
-# Dairyverse
+# Dairyverse - ## Dairy Management System
 
 ## Project Description
 Dairyverse is a web-based dairy management project that help retailers to manage the sales and inventory of dairy products.This project consists of an B2C (Business to Customer) E-Commerce website. The project consists of two main components: the admin side and the customer side.
